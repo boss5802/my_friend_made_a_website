@@ -1,0 +1,24 @@
+body{
+    background-color: darkblue;
+    text-align: center;
+}
+h1{
+    color: yellow;
+    font-size: 40px;
+}
+p{
+    color:white;
+    font-size: 18px;
+}
+h2{
+    font-size: 30px;
+    color: darkorange;
+}
+a{
+    color: cornflowerblue;
+}
+.Div_no_way {
+    border: 3px outset purple;
+    background-color: darkmagenta;
+    text-align: center;
+}
