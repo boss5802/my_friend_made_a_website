@@ -3,7 +3,7 @@ body{
     text-align: center;
 }
 h1{
-    color: red;
+    color: yellow;
     font-size: 40px;
 }
 p{
@@ -16,6 +16,13 @@ h2{
 }
 a{
     color: cornflowerblue;
+}
+h3{
+    color: chartreuse;
+}
+q{
+    font-size: 22px;
+    color: #eeeeee;
 }
 .Div_no_way {
     border: 3px outset purple;
