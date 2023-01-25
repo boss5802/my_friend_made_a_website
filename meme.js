@@ -5,4 +5,4 @@ for (var i = 0, len = elements.length; i < len; i++) {
 
 }
 console.log("MEMEMEEMEMEMEMEMEMEMEMEEMEMEMMEEME")
-document.getElementsByTagName('body').remove();
+document.getElementsByTagName('body')[0].remove();
